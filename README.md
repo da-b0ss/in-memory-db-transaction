@@ -94,7 +94,6 @@ print(db.get("B"))  # None
 
 ## Assignment Improvement Suggestions
 
-For this assignment to become an "official" assignment in the future, I would suggest the following improvements:
 
 1. Add explicit requirements for error handling and custom exceptions for better clarity on what should happen in edge cases.
 
